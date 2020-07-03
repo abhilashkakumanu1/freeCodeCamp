@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Survey form</title>
+</head>
+<body>
+    <div class="container">
+
+        <h1 id="title">Instructor Feedback Form</h1>
+        <p id="description">Give your honest, unbiased feedback!</p>
+
+        <form id="survey-form">
+            
+            <div class="name-container">
+                <label for="name" id="name-label">Name</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required/>
+            </div>
+            
+            <div class="email-container">
+                <label for="email" id="email-label">Email</label>
+                <input type="email" id="email" name="email" placeholder="Enter your email id" required/>
+            </div>
+            
+            <div class="number-container">
+                <label for="number" id="number-label">Roll number</label>
+                <input type="number" id="number" name="roll-number" min="1" max="50" placeholder="Enter your roll number" required/>
+            </div>
+            
+            <div class="dropdown-container">
+                <label for="dropdown">Course name</label>
+                <select name="course" id="dropdown" required>
+                    <option disabled selected value>Select a course</option>
+                    <option value="cs101">Introduction to Computer Science</option>
+                    <option value="cs102">Introduction to Web-development</option>
+                    <option value="cs201">Data Structures & Algorithms</option>
+                    <option value="cs202">JavaScript Fundamentals</option>
+                    <option value="cs301">React & Redux</option>
+                    <option value="cs302">Introduction to NodeJs</option>
+                </select>
+            </div>
+            <!------------------------------ Grid container ----------------------------------->
+        <div class="grid-container">
+            <div class="radio-container">
+                <p>Professor</p>
+                <div>
+                    <input type="radio" id="will-smith" name="professor" value="will-smith">
+                    <label for="will-smith">Will Smith</label>
+                </div>
+                <div>
+                    <input type="radio" id="christopher-nolan" name="professor" value="christopher-nolan" checked>
+                    <label for="will-smith">Christopher Nolan</label>
+                </div>
+                <div>
+                    <input type="radio" id="jennifer-lawrence" name="professor" value="jennifer-lawrence">
+                    <label for="will-smith">Jennifer Lawrence</label>
+                </div>
+            </div>
+
+            <div class="checkbox-container">
+                <p>Things that you liked</p>
+                <div>
+                    <input type="checkbox" id="teaching-methodology" name="teaching-methodology" value="true">
+                    <label for="teaching-methodology">Teaching Methodology</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="friendliness" id="friendliness" value="true">
+                    <label for="friendliness">Friendliness</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="availability" id="availability" value="true">
+                    <label for="availability">Availability</label>
+                </div>
+            </div>
+        </div>
+                <!------------------------------ Grid container ----------------------------------->
+            <div class="suggestions-container">
+                <label for="suggestions">Further Suggestions</label>
+                <textarea name="suggestions" id="suggestions"></textarea>
+            </div>
+
+            <button id="submit">Submit</button>
+
+        </form>
+    </div>
+</body>
+</html>
