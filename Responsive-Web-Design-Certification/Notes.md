@@ -14,3 +14,6 @@
 	- _checked_ boolean attribute can be used to have inputs checked by default
 - div => division element 
 ---
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzIzMDM3MTk4XX0=
+-->
