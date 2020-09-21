@@ -14,6 +14,8 @@
 	- _checked_ boolean attribute can be used to have inputs checked by default
 - div => division element 
 ---
+### Basic CSS
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMDM3MTk4XX0=
+eyJoaXN0b3J5IjpbNDM3ODU2MDk1XX0=
 -->
