@@ -17,8 +17,8 @@
 ### Basic CSS
 
 > The idea behind CSS is that you can use a selector to target an HTML element in the DOM and then apply a variety of attributes to that element to change the way it is displayed on the page.
-- 
+- It is a good practice to end inline style declarations with a "__;__"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzMzNzY3NF19
+eyJoaXN0b3J5IjpbLTk5NjY5NTA3MywtNTkzMzM3Njc0XX0=
 -->
