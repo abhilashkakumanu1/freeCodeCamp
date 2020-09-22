@@ -21,8 +21,8 @@
 - font family names should be wrapped in quotes if they contain space
 - fonts __degrade/fallback__ in the order from left to right. 
 - All html elements are essentially little rectangles.
-- margins can also be negat
+- margins can also be negative!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjcyNTYxMywtMTY4Nzg2ODI0MywxND
-EwNzQ1OTkzLC05OTY2OTUwNzMsLTU5MzMzNzY3NF19
+eyJoaXN0b3J5IjpbLTE2MjYyNjg0MzgsLTE2ODc4NjgyNDMsMT
+QxMDc0NTk5MywtOTk2Njk1MDczLC01OTMzMzc2NzRdfQ==
 -->
