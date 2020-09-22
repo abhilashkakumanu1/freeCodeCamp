@@ -24,8 +24,9 @@
 - margins can also be negative!
 - __[attr=value]__ : attribute selector
 - Relative Units:
-	- 
+	- __em__ : Font size of the parent, in the case of typographical properties like font-size, and font size of the element itself, in the case of other properties like width. If font-size not specified, parent's font-size is 
+	-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI3MDc4LC0xNjg3ODY4MjQzLDE0MT
+eyJoaXN0b3J5IjpbOTI1MDQzMDQxLC0xNjg3ODY4MjQzLDE0MT
 A3NDU5OTMsLTk5NjY5NTA3MywtNTkzMzM3Njc0XX0=
 -->
