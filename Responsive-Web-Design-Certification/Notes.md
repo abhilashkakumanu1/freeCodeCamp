@@ -20,8 +20,8 @@
 - It is a good practice to end inline style declarations with a "__;__"
 - font family names should be wrapped in quotes if they contain space
 - fonts __degrade/fallback__ in the order from left to right. 
-
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDc0NTk5MywtOTk2Njk1MDczLC01OT
-MzMzc2NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjM5MzU3MjIsMTQxMDc0NTk5MywtOT
+k2Njk1MDczLC01OTMzMzc2NzRdfQ==
 -->
