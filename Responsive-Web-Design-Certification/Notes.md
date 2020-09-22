@@ -31,9 +31,11 @@
 	- __vh__ : 1% of the viewport's height
 - !important syntax :  __attr: value !important;__
 - Declaring variables: __- -name: value;__ Using them: __attr: var(- -name, fallback-value);__
+- To make use of variable inheritance, CSS variables are often defined in the __:root__ element.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDY3MjE4LC0zMTI5MjM5ODAsMTQwNz
-Y4ODk4NCw3Mzg0ODM2OTYsLTE2ODc4NjgyNDMsMTQxMDc0NTk5
-MywtOTk2Njk1MDczLC01OTMzMzc2NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDQ4NTg4MzUsNTAxNDY3MjE4LC0zMT
+I5MjM5ODAsMTQwNzY4ODk4NCw3Mzg0ODM2OTYsLTE2ODc4Njgy
+NDMsMTQxMDc0NTk5MywtOTk2Njk1MDczLC01OTMzMzc2NzRdfQ
+==
 -->
