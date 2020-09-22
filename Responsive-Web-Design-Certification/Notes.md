@@ -28,8 +28,10 @@
 	- __rem__ : Font size of the root element
 	- __vw__ : 1% of the viewport's width
 	- __vh__ : 1% of the viewport's height
-	-  
+- !important syntax :  __attr=value !important;__
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NDgzNjk2LC0xNjg3ODY4MjQzLDE0MT
-A3NDU5OTMsLTk5NjY5NTA3MywtNTkzMzM3Njc0XX0=
+eyJoaXN0b3J5IjpbMTQwNzY4ODk4NCw3Mzg0ODM2OTYsLTE2OD
+c4NjgyNDMsMTQxMDc0NTk5MywtOTk2Njk1MDczLC01OTMzMzc2
+NzRdfQ==
 -->
