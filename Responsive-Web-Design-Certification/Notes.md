@@ -29,10 +29,11 @@
 	- __rem__ : Font size of the root element
 	- __vw__ : 1% of the viewport's width
 	- __vh__ : 1% of the viewport's height
-- !important syntax :  __attr=value !important;__
-- Declaring variables: --name: value; Using them: attr: var(--name, fallback-value);
+- !important syntax :  __attr: value !important;__
+- Declaring variables: __- -name: value;__ Using them: __attr: var(- -name, fallback-value);__
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODA1ODg0MiwtMzEyOTIzOTgwLDE0MD
-c2ODg5ODQsNzM4NDgzNjk2LC0xNjg3ODY4MjQzLDE0MTA3NDU5
-OTMsLTk5NjY5NTA3MywtNTkzMzM3Njc0XX0=
+eyJoaXN0b3J5IjpbNTAxNDY3MjE4LC0zMTI5MjM5ODAsMTQwNz
+Y4ODk4NCw3Mzg0ODM2OTYsLTE2ODc4NjgyNDMsMTQxMDc0NTk5
+MywtOTk2Njk1MDczLC01OTMzMzc2NzRdfQ==
 -->
