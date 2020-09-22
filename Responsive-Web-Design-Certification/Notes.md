@@ -24,7 +24,7 @@
 - margins can also be negative!
 - __[attr=value]__ : attribute selector
 - Relative Units:
-	- 
+	- __%__ : generally corresponds to respective parent attribute. For example, if you set an element's font-size as a percentage it will be a percentage of the font-size of the element's parent. If you use a percentage for a width value, it will be a percentage of the width of the parent
 	- __em__ : Font size of the parent, in the case of typographical properties like font-size, and font size of the element itself, in the case of other properties like width
 	- __rem__ : Font size of the root element
 	- __vw__ : 1% of the viewport's width
@@ -32,7 +32,7 @@
 - !important syntax :  __attr=value !important;__
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1OTY0MjgzLDE0MDc2ODg5ODQsNzM4ND
-gzNjk2LC0xNjg3ODY4MjQzLDE0MTA3NDU5OTMsLTk5NjY5NTA3
-MywtNTkzMzM3Njc0XX0=
+eyJoaXN0b3J5IjpbLTMxMjkyMzk4MCwxNDA3Njg4OTg0LDczOD
+Q4MzY5NiwtMTY4Nzg2ODI0MywxNDEwNzQ1OTkzLC05OTY2OTUw
+NzMsLTU5MzMzNzY3NF19
 -->
