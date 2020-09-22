@@ -30,10 +30,9 @@
 	- __vw__ : 1% of the viewport's width
 	- __vh__ : 1% of the viewport's height
 - !important syntax :  __attr=value !important;__
-- 
-- 
+- Declaring variables: --name: value; Using them: attr: var(--name, fallback-value);
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI4NzY3NTMsLTMxMjkyMzk4MCwxND
-A3Njg4OTg0LDczODQ4MzY5NiwtMTY4Nzg2ODI0MywxNDEwNzQ1
-OTkzLC05OTY2OTUwNzMsLTU5MzMzNzY3NF19
+eyJoaXN0b3J5IjpbLTU3ODA1ODg0MiwtMzEyOTIzOTgwLDE0MD
+c2ODg5ODQsNzM4NDgzNjk2LC0xNjg3ODY4MjQzLDE0MTA3NDU5
+OTMsLTk5NjY5NTA3MywtNTkzMzM3Njc0XX0=
 -->
