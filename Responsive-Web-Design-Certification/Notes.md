@@ -34,10 +34,11 @@
 - To make use of variable inheritance, CSS variables are often defined in the __:root__ element. It is a pseudo-class selector that matches the root element of the document, usually the html element
 ---
 ### Applied Visual Design
-> Graphic design - print, Visual designer - UI, and Web designer is a 
+> Graphic design - print, Visual designer - UI, and Web design is a subset of visual design.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NDg1NjEzLDYyOTgxOTUxMCw1MDE0Nj
-cyMTgsLTMxMjkyMzk4MCwxNDA3Njg4OTg0LDczODQ4MzY5Niwt
-MTY4Nzg2ODI0MywxNDEwNzQ1OTkzLC05OTY2OTUwNzMsLTU5Mz
-MzNzY3NF19
+eyJoaXN0b3J5IjpbNTU2OTczMDYsNjI5ODE5NTEwLDUwMTQ2Nz
+IxOCwtMzEyOTIzOTgwLDE0MDc2ODg5ODQsNzM4NDgzNjk2LC0x
+Njg3ODY4MjQzLDE0MTA3NDU5OTMsLTk5NjY5NTA3MywtNTkzMz
+M3Njc0XX0=
 -->
