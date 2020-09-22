@@ -23,7 +23,8 @@
 - All html elements are essentially little rectangles.
 - margins can also be negative!
 - __[attr=value]__ : attribute selector
+- Relative Units:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDg5MDg3NywtMTY4Nzg2ODI0MywxND
+eyJoaXN0b3J5IjpbLTEyMDg5NTg4MSwtMTY4Nzg2ODI0MywxND
 EwNzQ1OTkzLC05OTY2OTUwNzMsLTU5MzMzNzY3NF19
 -->
